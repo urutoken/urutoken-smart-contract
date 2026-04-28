@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urutoken/urutoken-logo/main/logo.png" width="200"/>
+</p>
 # 🚀 Urutoken (URU) – Version 2 (V2)
 
 Urutoken (URU) is an Ethereum-based utility token designed to support a real-world retail ecosystem and connect traditional commerce with blockchain technology.
