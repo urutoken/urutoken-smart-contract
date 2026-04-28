@@ -1,3 +1,6 @@
+// 🚀 Urutoken V2 - Official Smart Contract
+// ⚠️ Previous versions are deprecated
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
