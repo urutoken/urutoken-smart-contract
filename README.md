@@ -1,13 +1,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/urutoken/urutoken-logo/main/logo.png" width="200"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen"/>
   <img src="https://img.shields.io/badge/network-ethereum-blue"/>
   <img src="https://img.shields.io/badge/license-MIT-green"/>
 </p>
 
-🌐 https://urutoken.com
+<p align="center">
+  🌐 https://urutoken.com
+</p>
 
 # 🚀 Urutoken (URU) – Version 2 (V2)
 
